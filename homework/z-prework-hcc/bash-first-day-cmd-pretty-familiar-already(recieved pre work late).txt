@@ -1,0 +1,482 @@
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/z-prework-hcc
+$ git --version
+git version 2.18.0.windows.1
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/z-prework-hcc
+$ node --version
+v8.11.3
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/z-prework-hcc
+$ heroku --version
+heroku/7.7.8 win32-x64 node-v10.7.0
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/z-prework-hcc
+$ ls
+bash-transcript1.txt         jQuery-vanilla-snippet.js  module-10  module-12  module-3  module-5  module-7  module-9
+Broken_and_Working_Code.zip  module-1                   module-11  module-2   module-4  module-6  module-8
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/z-prework-hcc
+$ cd /
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /
+$ cd /
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /
+$ cd ..
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /
+$ dir
+bin  cmd  dev  etc  git-bash.exe  git-cmd.exe  LICENSE.txt  mingw64  proc  ReleaseNotes.html  tmp  unins000.dat  unins000.exe  unins000.msg  usr
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /
+$ ls
+bin  cmd  dev  etc  git-bash.exe  git-cmd.exe  LICENSE.txt  mingw64  proc  ReleaseNotes.html  tmp  unins000.dat  unins000.exe  unins000.msg  usr
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /
+$ cd C:\
+> dir
+bash: cd: C:dir: No such file or directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /
+$ cd C:/
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ dir
+$Recycle.Bin        Documents\ and\ Settings  moms-phot              sfc-code-tests-js-sql-etc    Users                  webvb
+os            sfc-code-tests-js-sql-etc    Users         s           sfc-happy-imagefan           webbg                  Windows
+           webvb                                                     sfc-images                   webComsc20             zpiexample
+$SysReset           Drivers                   pagefile.  les         study                        webdadtrips            z-pre-sfc-portfolio
+sys           sfc-happy-imagefan           webbg         les\ (x86)  swapfile.sys                 web-sfc-m-pics         z-prework-hcc
+           Windows                                                   System\ Volume\ Information  websfc-problem-series  z-websfc
+animation-html-css  eeColorTables             PerfLogs               test                         web-tests-sfc
+              sfc-images                   webComsc20
+           zpiexample
+Apps                fbtest                    Program\
+Files         study                        webdadtrips   os            sfc-code-tests-js-sql-etc    Users                   webvb
+           z-pre-sfc-portfolio                           sys           sfc-happy-imagefan           webbg                   Windows
+Awebnex-secCheck    hiberfil.sys              Program\                 sfc-images                   webComsc20              zpiexample
+Files\ (x86)  swapfile.sys                 web-sfc-m-pi  iles'         study                        webdadtrips             z-pre-sfc-portfolio
+cs         z-prework-hcc                                 iles (x86)'   swapfile.sys                 web-sfc-m-pics          z-prework-hcc
+backup              Intel                     ProgramDa  ta           'System Volume Information'   websfc-problem-series   z-websfc
+ta            System\ Volume\ Information  websfc-probl                test                         web-tests-sfc
+em-series  z-websfc
+dell                kshopproj                 Recovery
+              test                         web-tests-sf
+c
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ ls
+'$Recycle.Bin'       'Documents and Settings'   moms-ph
+otos            sfc-code-tests-js-sql-etc    Users
+            webvb
+'$SysReset'           Drivers                   pagefile.sys           sfc-happy-imagefan           webbg
+          Windows
+ animation-html-css   eeColorTables             PerfLogs
+              sfc-images                   webComsc20
+          zpiexample
+ Apps                 fbtest                   'Program Files'         study                        webdadtrips
+          z-pre-sfc-portfolio
+ Awebnex-secCheck     hiberfil.sys             'Program Files (x86)'   swapfile.sys                 web-sfc-m-pics          z-prework-hcc
+ backup               Intel                     ProgramData           'System Volume Information'   websfc-problem-series   z-websfc
+ dell                 kshopproj                 Recovery
+              test                         web-tests-sfc
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ pwd
+/c
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ cd users
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users
+$ dir /s
+dir: cannot access '/s': No such file or directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users
+$ dir -s
+total 30
+ 0 Administrator   0 Default\ User   1 newfile.txt
+ 0 All\ Users      1 desktop.ini     4 Public
+ 8 Default        16 Hunter
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users
+$ cd ..
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ cd Z-PREWORK-HCC
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC
+$ ls
+bash-transcript1.txt         module-11  module-5
+Broken_and_Working_Code.zip  module-12  module-6
+jQuery-vanilla-snippet.js    module-2   module-7
+module-1                     module-3   module-8
+module-10                    module-4   module-9
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC
+$ ls /?
+ls: cannot access '/?': No such file or directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC
+$ ls help
+ls: cannot access 'help': No such file or directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC
+$ cd module-1
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ ls
+notes.txt
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd..
+bash: cd..: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd..
+bash: cd..: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd..
+bash: cd..: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd.
+bash: cd.: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ ..
+bash: ..: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd /
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /
+$ cd c:\
+>
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ cd users
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users
+$ cd ..
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ cd Z-PREWORK-HCC / cd module-1
+bash: cd: too many arguments
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ cd Z-PREWORK-HCC
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC
+$ cd module-1
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ mkdir new-directorymod1
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd new-directorymod1
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1
+$ mkdir lesson1 > index.html
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1
+$ cd lesson1
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1/lesson1
+$ dir
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1/lesson1
+$ ls
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1/lesson1
+$ pwd
+/c/Z-PREWORK-HCC/module-1/new-directorymod1/lesson1
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1/lesson1
+$ dir /s
+dir: cannot access '/s': No such file or directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1/lesson1
+$ dir -s
+total 0
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1/lesson1
+$ ls
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1/lesson1
+$ index.html
+bash: index.html: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1/lesson1
+$ cd ..
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1/new-directorymod1
+$ cd ..
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ dir
+new-directorymod1  notes.txt
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd..
+bash: cd..: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd..
+bash: cd..: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd..
+bash: cd..: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd..
+bash: cd..: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd/
+bash: cd/: No such file or directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/Z-PREWORK-HCC/module-1
+$ cd /
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /
+$ cd c:/
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ mkdir code
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ cd code
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/code
+$ mkdir html css js img
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/code
+$ dir
+css  html  img  js
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/code
+$ mkdir one_folder second_folder
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/code
+$ mkdir first_day_stuff
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/code
+$ rmdir code
+rmdir: failed to remove 'code': No such file or directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/code
+$
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/code
+$ cd ..
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ cd desktop
+bash: cd: desktop: No such file or directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ cd desktop
+bash: cd: desktop: No such file or directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ dir
+$Recycle.Bin              Recovery
+$SysReset                 sfc-code-tests-js-sql-etc
+animation-html-css        sfc-happy-imagefan
+Apps                      sfc-images
+Awebnex-secCheck          study
+backup                    swapfile.sys
+code                      System\ Volume\ Information
+dell                      test
+Documents\ and\ Settings  Users
+Drivers                   webbg
+eeColorTables             webComsc20
+fbtest                    webdadtrips
+hiberfil.sys              web-sfc-m-pics
+Intel                     websfc-problem-series
+kshopproj                 web-tests-sfc
+moms-photos               webvb
+pagefile.sys              Windows
+PerfLogs                  zpiexample
+Program\ Files            z-pre-sfc-portfolio
+Program\ Files\ (x86)     z-prework-hcc
+ProgramData               z-websfc
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c
+$ cd users
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users
+$ cd hunter
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter
+$ dir
+3D\ Objects
+AppData
+Application\ Data
+coffeelint.json
+Contacts
+Cookies
+cplus
+Desktop
+Documents
+Downloads
+Favorites
+IntelGraphicsProfiles
+Links
+Local\ Settings
+MicrosoftEdgeBackups
+Music
+My\ Documents
+NetHood
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{3276c7c1-68b0-11e8-a4ef-509a4cb4b37a}.TM.blf
+NTUSER.DAT{3276c7c1-68b0-11e8-a4ef-509a4cb4b37a}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{3276c7c1-68b0-11e8-a4ef-509a4cb4b37a}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+OneDrive
+Pictures
+PrintHood
+Recent
+Roaming
+Saved\ Games
+Searches
+SendTo
+source
+Start\ Menu
+Templates
+tslint.json
+Videos
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter
+$ cd desktop
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop
+$ mkdir first_day_stuff
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop
+$ cd first_day_stuff
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ touch first_day.html
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ dir
+first_day.html
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ first_day.html
+bash: first_day.html: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ open first_day.html
+bash: open: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ mkdir one_folder second_folder
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ touch one.html two.html
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ dir
+first_day.html  one_folder     two.html
+one.html        second_folder
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ dir
+first_day.html  one_folder     two.html
+one.html        second_folder
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ cd first_day.html
+bash: cd: first_day.html: Not a directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ first_day.html
+bash: first_day.html: command not found
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ ls
+first_day.html  one_folder     two.html
+one.html        second_folder
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ touch /?
+touch: cannot touch '/?': Permission denied
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ touch help
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ dir
+first_day.html  one.html    second_folder
+help            one_folder  two.html
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ rmdir help
+rmdir: failed to remove 'help': Not a directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stufffirst_day_stuff
+$ cd help
+bash: cd: help: Not a directory
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff$ first_day_stuff/two.html
+bash: first_day_stuff/two.html: No such file or directory
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ ls
+first_day.html  one.html    second_folderhelp            one_folder  two.html
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ start two.html
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff/users/hunter/desktop/first_day_stuff
+$ mkdir third_folder > index.html/users/hunter/desktop/first_day_stuff
+                                 older     third_folder
+Hunter@DESKTOP-7FSI6QG MINGW64 /cd_folder  two.html/users/hunter/desktop/first_day_stuff                             /users/hunter/desktop/first_day_stuff
+$ ls
+first_day.html  index.html  one_folder     third_folder           /users/hunter/desktop/first_day_stuff/third_folder
+help            one.html    second_folder  two.html
+                                 /users/hunter/desktop/first_day_stuff/third_folder
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ cd third_folder
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff/third_folder$ ls
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff/third_folder
+$ mkdir index.html
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff/third_folder$ ls
+index.html
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff/third_folder$ cd ..
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ cd ..
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop$ cd first_day_stuff
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$ ls
+first_day.html  help  index.html  one.html  one_folder  second_folder  third_folder  two.html
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$
+
+Hunter@DESKTOP-7FSI6QG MINGW64 /c/users/hunter/desktop/first_day_stuff
+$

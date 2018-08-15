@@ -1,0 +1,391 @@
+Since i can't transfer on my mobile...
+
+or show my mobile as a PERFECT example of this 
+
+here is what me and my dad were looking at the other day, 
+i was showing him "HTTPS only" as it relates to session hijacking
+see: my security oriented approach, and "the ZPI story" 
+
+https://www.bing.com/search?q=brave.com+jobs&form=EDGHPT&qs=PF&cvid=7fa8673e18d64ec29c7c62cb3f99d0e3&cc=US&setlang=en-US&PC=DCTS
+
+Brave.com Jobs 
+
+5+ years experience, 
+i normally look at tech docs all the time, but it is mostly on my mobile 
+because i do not keep tabs open on my windows system like i can with a phone.  
+
+my dad had came to show me, because he knew i program in c++ when i was first getting started(simple stuff) 
+requirements, continued: 
+5+ years experience
+has to know javascript performance details for browsers
+v8 engine / chromium
+basic html/css skills 
+
+would typically look up, is brave powered by 
+v8 javascript engine ? 
+
+Because i can't use my phone with all the perfect examples, i'm sort of at a rush to do this ,
+because i was HOPING for a module JUST LIKE THIS where i could show my searches on tech docs, 
+based on a job i would like, and then going down the proper search "rabbit hole" to learning services, such as APIs
+
+
+I was using google https://developers.google.com 
+for looking at java docs for android the other day.  
+
+
+1. Brave and V8. 
+see above : 
+
+
+i would then search for 
+https://www.google.com/search?client=firefox-b-1-ab&ei=m7toW72zK43ysAW70pYg&q=what+javascript+engine+does+brave+use%3F+v8&oq=what+javascript+engine+does+brave+use%3F+v8&gs_l=psy-ab.3...108042.108656.0.109009.3.3.0.0.0.0.214.493.0j2j1.3.0....0...1c.1.64.psy-ab..0.1.141...33i160k1.0.YUpUe6gZ5Cg
+
+
+also raises the security question(but i know not to get too bogged down in that) 
+of, parse this url................................................................... ^ what addr or hash? 
+
+Since, at the moment, a question like that for me would be too broad, because i don't understand how the whole browser
+works at a compiler like level, 
+i would search 
+https://developers.google.com/v8/
+because i know v8 javascript engine is something that is used in most browsers, 
+and that somehow node utilizes the same features, 
+
+so i would compare that to the node.js docs 
+
+and essentially view and compare v8 and node.js docs
+also the specific w3 javascript, 
+there are all sorts of places to compare and find information.  
+https://docs.npmjs.com/
+
+since node would be generally what i'm working on, or the level of study i am 
+at right now, i would generally study these docs, 
+there are also good javascript docs and for API (seperate concepts) 
+at www.oracle.com  
+oracle may be more JAVA oriented which is diffferent than JAVASCRIPT JS ES5/6 
+
+AND FINALLY
+
+the big thing stopping my progress on win10 
+
+https://docs.npmjs.com/getting-started/installing-npm-packages-locally
+
+PACKAGES .   
+
+although i hope git bash will change that, because i can do working with packages better on 
+a tablet with TermUX than on a win10 machine.  (that says something) 
+
+
+
+
+https://docs.npmjs.com/getting-started/what-is-npm
+
+
+2.  The last one was a little informal and broad,  i hope i can show my mobile as an example .  
+MyMobile.  
+
+skip down for better part of assignment, my mobile will come later
+Treehouse 
+
+
+
+Module 11 reference: video from other source, 
+in a video i was watching on instagram with "galvanized" bootcamp,
+it seemed like the notification was timed with when i was recieving my pre work.
+
+"BOOTCAMPS WILL TURN YOU INTO EXCELLENT GOOGLERS/SEARCHERS, IF THERES ONE THING A 
+BOOTCAMP WILL MAKE YOU A 'ROCKSTAR' AT, YOU MIGHT NOT BE A 'ROCKSTAR CODER' BUT 
+BOOTCAMPS WILL TEACH YOU HOW TO BE A ROCKSTAR AT SEARCHES"
+SEE: BOOM! I NOW HAVE DOCS FOR BOTH THINGS THE JOB WANTS
+REMINDER:  (DON'T SPREAD STUDYING TOO THIN FOCUS ON ONE THING AT ONCE)
+
+HOWEVER, this shows an efficient way for getting docs for studying similar "skill chains" 
+
+coming from more of an IT, military(esque type of perspective on security), i never was in, i just teach myself that kind of way from time to time, as well as have friends who HAVE done mil IT work. )) 
+
+V 
+Simpler Version: more close to the assignment, 
+i get the feel for what they want, 
+they're showing us how to look at tech docs.  
+
+this is kind of how i wound up here, 
+coming from a place where ive taken classes, 
+but have been teaching myself, lately,  i am 
+very very used to looking at these sometimes and then looking at 
+docs as follows 
+
+
+
+2.1 https://www.indeed.com/q-Simple-HTML-CSS-jobs.html
+Apple 5,812 reviews
+Santa Clara Valley, CA
+5+ years of hands on front end development experience with web apps using HTML, CSS, Javascript and other industry standard frameworks....
+Desired Experience: JavaScript, D3.js, HTML5, React, Front-End Development, Angular, REST, Unit Testing, AJAX, CSS, Ember
+
+
+They want REST, AJAX and REACT
+those are things that i am SOMEWHAT familiar with
+BUT not complele confident in using them.  
+
+
+good video tutorials for AJAX (asynchronus javascript and XML,
+now usually AJAJ, asynchronous JS and JSON)  
+
+
+https://www.google.com/search?q=ajax+tutorial+yt+&ie=utf-8&oe=utf-8&client=firefox-b-1-ab
+
+
+https://www.youtube.com/watch?v=tp3Gw-oWs2k
+
+https://www.youtube.com/watch?v=tNKD0kfel6o
+
+-----
+and here are some docs for getting started with AJAX 
+
+
+https://www.w3schools.com/xml/ajax_intro.asp
+
+npm ajax docs
+https://www.google.com/search?q=npm+ajax+docs&ie=utf-8&oe=utf-8&client=firefox-b-1-ab
+
+BOOM, (trying to show that this is a "searching for tech docs, type process?" ) ; 
+
+ive now just hit a result where they want EMBER and AJAX, 
+NPM is giving docs for AJAX requests using ember,
+it helps to do that to learn how the whole system works,
+after you're done learning code, methods, different things, 
+piece by piece.  
+
+https://www.npmjs.com/package/ember-ajax
+
+
+Other videos i've watched: 
+Stuff from fullstack.   it gives me great perspective for this bootcamp 
+that i'm going into, some of the speakers might even be people the staff knows,
+just gives me a closer feel.   Talks about MERN stack, some of the newer things 
+in web going on etc etc, 
+though i know OF alot of different things in web, i by no means know it all, which is why i'm here.
+i think the above line statement rings true for programmers/devs in all of space and time :) ^ 
+
+I have a TON of playlist archive URLS that i can show, 
+if > see Personal&anonymity 
+
+
+1. browser engine (broad) Brave: Senior Dev 5+ years, (situational example of life  the other day) 
+also explained MyMobile has exactly these examples, but having to re create on a whim on desktop vs these prime examples i have on mobile coming from the "teach yourself" background,  but i don't want to make a bad first impression and want to do things the staff and the leaders way :) 
+
+
+2-4 Front End Dev,(narrowed) Santa Clarita : http(s) indeed.com 
+2.AJAX 3. REST(api) 4. Ember(framework)(scripting) 
+4.9 special mention (npm) i think we will be looking at alot of NPM? (node package manager)
+
+is npm node package manager? 
+
+https://www.sitepoint.com/beginners-guide-node-package-manager/
+
+
+5.  MyMobile (pics) 
+SEE : SERVICE | ANDROID , (PIC ) 
+(0THERS) PICS) 
+
+
+Java / Web Full Stack Software Engineer
+
+Centreville, VA
+
+Are you ready for a challenge that will keep you on the cutting edge of cyber-security? Parsons works on leading edge cyber-security projects for national defense programs and is hiring Java / Web Full Stack Software Engineers with a focus on research, innovation and solving mission critical challenges. Join some of the best and brightest engineers in the industry to analyze enormous sets of data and develop intuitive visualizations while solving problems that others thought were impossible.
+
+Responsibilities
+
+Solve challenging problems to meet customer needs
+Create well-designed, testable, and efficient code
+Collaborate with other team members
+Participate in an Agile Development Process
+Expand your knowledge of Computer Networking
+Ask smart questions, take risks, and champion innovative ideas.
+
+
+Required Qualifications
+
+Must have a Bachelor of Science in Computer Engineering, Computer Science, Computer Security, or a related field
+Must have 3+ years computer programming development experience
+Proof of US Citizenship is required
+Applicants selected for employment must have a DoD TS security clearance and must meet additional eligibility requirements for access to classified information or materials.
+
+Required Skills
+
+Strong understanding of software development principles, data structures and algorithms
+Proficiency in
+Java 8
+Web development
+Electron cross-platform desktop application development
+Chromium
+Node.js
+React
+JavaScript
+HTML
+CSS
+Proficient with Linux command line environments
+Strong Computer Networking Experience
+Knowledge of arp, ip, tcp, udp, dns, dhcp, and routing protocols
+Experience with wireshark, cloudshark, and tcpdump
+Excellent written and verbal skills to communicate with technical team members, managers and customers
+Proficient in analyzing performance issues and implementing efficiency improvements
+Proficiency in concurrency through multithreaded programming techniques
+5.1 MyMobile (npf-driver) wireshark docs (think the screenshot missed wireshark docs that i have open, but same as Atom and RSS syndication with W3, there are about 5 tabs each, videos, docs from other place, etc, that i read.  
+and when given a chance or when matches my project, code along to,
+OR when new code i haven't learned, try to come up with a project to code along to 
+
+
+END 1-5 ;
+BEGIN SPECIAL MENTION 2.  
+
+----------------------------------------------------------------
+
+SEE PICTURES IN MOD2 FOLDER FOR 5-5.9
+
+JOBS FROM MYMOBILE: IT GENERAL, IT HELP DESK, MOBILE, CONTINUING EDUCATION FOR SECURITY
+
+WIRESHARK BASED JOBS, DEVOPS, ETC ETC , ( NOT TRYING TO GET IN OVER MY HEAD) 
+( I KNOW THAT THATS A BIG PART OF THINGS WHEN CODING, AND I GENERALLY PLACE SOMETHING TANGENTIAL 
+BECAUSE IT WILL RELATE TO DEV AS WE ARE DOING IT, LATER ON, POSSIBLY )  
+
+
+###############################################################################################################
+ALOT OF THIS WILL SHOW THAT I PREFER OUT OF ANY OF THE 3 CHOICES, WORKING WITH MOBILE DEVICES, SECURITY, AUTH,# 
+BUT MAINLY WHAT COMES OF MOBILE, ETC ETC.  THE SCREENSHOTS DO A DECENT JOB AT SHOWING THIS 		      #
+OR WHATEVER LENDS ITSELF TO THE MOST IT/PENTESTING/SECURITY TYPE OF THING OUT THERE, THOUGH,   		      #
+DEV IS MY FIRST CHOICE OVER THAT
+WOULD NOT INCLUDE ALL THESE "NOTES" IN THE WORK SPACE, WITHOUT FEELING IT OUT FIRST / BEING THERE AWHILE,     #
+BUT WHILE I'M IN THE "STUDY" SPACE, I FIGURE I MIGHT AS WELL DO THAT 					      #
+###############################################################################################################
+
+ABSOLUTE DREAM JOB SEARCHING BOTH IT AND DEV MIXED TOGETHER 
+
+https://www.nsa.gov/psp/applyonline/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&JobOpeningId=30000976&SiteId=1&PostingSeq=1
+
+SICP Interns are hired into a temporary appointment status for a total of no more than 12 weeks. They are expected to work all 12 weeks. The SICP traditionally runs from the end of May through the middle of August. Competition to become a SICP intern starts with each student submitting a complete, precise and informative application packet (see below). Returning interns from previous years must submit new employment applications. This year, SICP applications are accepted from 01 August to 31 October 2018.
+
+
+WOULD BE "DREAM" OR "MOVIE" LEVEL EDUCATION AND EXP THAT JOB WOULD GIVE, "DREAM" TYPE JOB.
+I AM JUST AN AVERAGE GUY AND COULDN'T PASS ALL THOSE CLEARANCES PROBABLY. 
+NOT PHYSICIAL, BUT I'VE JUST NEVER KNOWN ANYONE WITH CONNECTIONS TO THAT, 
+
+BUT ITS MORE IN THE OPERATIONS OF WHAT THEY DO THAT HAS ALWAYS DRIVEN SUCH A STRONG INTEREST THAT I HAVE <--- -IMPORTANT 
+
+
+TO ME . 
+
+
+SEE MY PICS SENT FROM MOBILE FOR THIS ONE.  
+
+3rd special mention: 
+
+RSS and atom Syndication : see pics ;  
+
+6.   SQL and WEB Programmer - Mid-Level
+Market Approach Consulting - Lorena, TX 76655
+
+Apply Now
+ 
+
+This employer accepts applications via Indeed.
+Job
+Insights
+Market Approach Consulting is a growing Mid-Size company that provides business services including List Management and Brokerage, Data Analysis, Database Services, and Custom portals for managing clients data or data needs and related services.
+We have been a business leader in our field for nearly 20 years. We offer competitive wages/salary, medical benefits, paid vacation, and other benefits to our staff.
+We offer a fun, casual, work environment, located in an easy to access location in the city of Lorena, TX (Just South of Waco, TX)
+Job Purpose:
+We are looking for a full time person to work in our Lorena office. (This is NOT a telecommuting job).
+You would work under direction of our CIO and Lead Programmer to help develop and provide support for custom database solutions and web interfaces used by our clients and staff. Other daily duties would involve process monitoring, reporting, and data analytics.
+The ideal candidate should have:
+Some SQL database experience, including data import/export, analysis, reporting, and the ability to write SQL queries and stored procedures. (We use MS SQL 2012 and above)
+Adobe Dreamweaver 6 or later
+HTML experience
+Classic ASP experience
+JavaScript experience
+WEB Design
+VB Scripting experience
+Experience with Windows 10
+Be a Self Starter
+Ability to interface with end users
+Good at researching solutions to problems
+Desirable additional skills:
+Visual Studio experience
+ASP.Net
+Graphic Development
+If interested, please submit your information, including a resume with Job Experience and Salary information / requirements.
+Job Type: Full-time
+Experience:
+Web Design: 1 year
+SQL: 2 years
+Required work authorization:
+United States
+
+
+6 VB SCRIPTING : took a college class on regular VB once.  
+https://docs.microsoft.com/en-us/
+
+https://tutorials.visualstudio.com/vs-get-started/intr
+
+
+BARNACLES : this guy is a pretty amazing watch if you 
+have a windows system, more importantly if you use IE/edge 
+he shows you certain tips and tricks for windows systems. 
+
+guy used to be a long time microsoft programmer 
+
+series on VB/C /visual studio .  
+can get you code for express and certain things (if at time of watch) 
+https://www.youtube.com/watch?v=Yj0G5UdBJZw
+
+
+
+
+7: RULES THAT APPLY FROM CODING BOOTCAMP/ PROBLEM SOLVING SKILLS :
+self explanitory.  
+
+8: SQL : https://www.w3schools.com/sql
+
+POSTgres, PostgreSQL: Documentation
+https://www.postgresql.org/docs
+
+9: ASP : this guy is amazing for teaching ASP and MVC
+follow his series https://www.youtube.com/watch?v=3AYoipyqOkQ
+
+https://docs.microsoft.com/en-us/
+
+10:  GRAPHIC DESIGN/DEV : 
+
+if on windows then, https://docs.microsoft.com/en-us/
+
+have been using GIMP 
+
+search photoshop illustrator and XD 
+
+https://www.google.com/search?q=adobe+illustrator+photoshop+xd+tutorial&ie=utf-8&oe=utf-8&client=firefox-b-1-ab
+https://apostasybrand.com/
+i have a friend who is a legitamte artist, he shows in good galleries downtown etc etc.  
+so he has shown me very cool things in the realm of graphic design, 
+
+he even has his SEO rankings up wayyyy higher than normal for most people. 
+
+
+2nd dream job, /realistic fallback / SEO, 
+i love certain security type of things, and i love working with urls to see exactly what data is there. 
+there is so much data passing in front of regular non tech peoples faces and they don't even know it, 
+i was one of those people for so long until i was forced not to be.  
+
+seo should've been included on here, but i've filled up all 10, 
+assignment says not to put too much thought into it, 
+
+and i have my mobile fully optimized because this is basically what i do anyway, 
+but this desktop equivalent, even though having to start from scratch, is still a decent tech doc search, 
+only nessescary thing would be to clean up the written word clutter i'm writing, 
+
+but i'm also writing to maybe get some feel for instructors on a personal level, understanding where 
+we all come from etc etc.  
+
+				
+
+

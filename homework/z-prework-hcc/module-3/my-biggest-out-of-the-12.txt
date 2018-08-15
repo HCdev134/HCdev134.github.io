@@ -1,0 +1,99 @@
+I've read this section many times,
+
+I feel really good about this assignment, especially the part at the end
+it lets me explain some things i have wanted to explain for such a long 
+while, see #7 .  
+
+I've read this section so many times because it resonates 
+with me very deeply, with some of the questions i had that 
+i wanted to bring to the forefront with this program. 
+As well as in the webinar when i realized this program 
+was for people who are like me, people who will stop at 
+nothing to teach themselves to code/ web dev skills, and 
+spend a long time each day going over different docs and projects
+trying to become better at this (teaching yourself) 
+
+for the last year since my computer classes in college, i have been 
+trying to teach myself more, and some of it has gone good,
+but with that come certain mental loops or bad habits that people get into
+
+#6 crumple the paper tiger, "am i doing this right"
+example: i have MAJOR trouble installing packages on windows10
+
+my approach to most things is security oriented. its how i got 
+into this, and its how i know i will never leave doing this,
+i always have a question for something, i always want to know deeper into
+how something works. always always.  
+
+So i had the pitfall of not knowing, "where should i set the PATH for this," 
+
+"which area of my computer is most secure"  etc etc 
+"which extra files are written to my computer besides in the regular Cdrive  or program files i saved it to" 
+"which of these files could be potentially unwanted programs or vulnerable to injection" 
+
+all of those things have their place and time, but spending too much time on that gets me bogged down, 
+
+which is WHY i PREFER web dev over IT, to me it is more relaxing to write code, even with the hard stuff, i also
+love design.  
+
+What ends up happening, how i end up learning:  
+
+My rule of thumb for asking questions:  i would NEVER ask my professor a question UNLESS i had for sure gone over stackoverflow/exchange many times, made sure that i am asking the right question for the right DATE and not looking at depreciated docs.  
+docs docs docs, w3, iana, etc, 
+usually 1 to 2 hours per googling and coding (rinse and repeat, trial and error) 
+before i give in to ask a question, and even then, 
+i do not want to be given the answer to the problem, just pointed in the direction to learn to 
+solve it myself.  
+thats what makes a coder good imo.  
+
+ ( i'm doing module2 right now, but i've read over these docs and watched things several times, as the 'sharpening the axe' quote states at the beginning page)  
+After downloading VScode, the next step was to install git bash, the ONLY thing i've ever gotten package installs right with my UAC and GPO on windows 10 correctly ( i didn't , i had to use linux) 
+after seeing VScode, before downloading git-bash, i realized....
+that in the bottom (VScode improved over summer) 
+that the "terminal" usually looks for the IDE in program files, program files x86 , appdata local programs etc. 
+
+i realized that all of that didn't matter, git looks in those places, so if i install in one of those places, i should be fine,  even though (ZPI story, see me in person for later for that) i can deal with the fine tuned security issues later. 
+
+probably, "am i doing this right" can sometimes hold me back alot.  
+but its a mixture of alot of these,  alot of these i also have pretty good strengths and weaknesses in, its hard to zero in on just one.  
+
+3 there is no coding pill is what i've realized. 
+get better at google fu is what i've done, but anyone can always get better , 
+nobody knows everything (except the instructors are awesome awesome and pretty much close :) ) 
+but thats why we are here
+10 is what i've known as i've gotten into more advanced code, i'm even taking time writing this short module :) 
+sometimes time management can be a TINY bit of a problem, but not often
+
+NUMBER 7. number 7, that is what i need!  there is nobody around me who knows or cares anything about computing what so ever. i have no one to turn to. also see (ZPI story in person)  
+The. more. people i have knowing computing that i can know or even be friends with, the better, 
+ethics are everything to me, (zpi story)  
+
+after being a victim of something very unethical, ethics in this kind of thing mean a whole whole bunch to me, 
+
+number 7 is what i need the most, having people around to keep going, having people who are into computing around me, not just faceless anonymous entities like most of the internet is(getting worse too btw)   
+after all, someone is best when you keep them happy and coding alot,  once people have no peers or anyone that cares, i'vve noticed the coding goes downhill along with it.  
+
+7 is what i need.  6 is what i'm worst at.  3 is what i know.  
+11-13 are what i want to be.  
+
+having to answer these modules kind of takes away from reading them and absorbing info 
+at the right rate and right way, 
+which is why i went over them a TON beforehand. 
+sometimes answering WITH is good, sometimes just referencing is good too, 
+time and place for everything.  
+in code its mostly good to go WITH vs just referencing.  see #5 
+
+
+all 12 are techically about number 5, once again ;) 
+i played guitar for a long long time, i guess thats why that realization also came naturally. 
+
+my old html professor was a bass player, he taught me alot in such a short time, 
+i originally kind of picked up that realization from him :) 
+the type of path he took would also be my dream path, because i'm just a normal guy. 
+
+( he kind of got to be both a sysadmin and dev at the same time) 
+(if only i had realized i wanted to do web stack, and could go back to the 90s)  ;) 
+
+end module 3 assignment ; 
+
+

@@ -1,0 +1,46 @@
+* {
+    margin: 0 ; 
+    padding: 0 ; 
+}
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; 
+    background-color: rgba(38, 67, 148, 0.9) ; 
+}
+.topnav{
+
+    overflow:hidden ; 
+    background-color: #000 ; 
+}
+.topnav a{
+    float: left ; 
+    padding: 20px 21px ; 
+    font: 19px ; 
+    text-align: center ; 
+    text-decoration: underline ; 
+    text-decoration-color: #0cfaaa ; 
+    text-transform: uppercase ; 
+
+}
+.topnav a:hover{
+
+    background-color: #484fdf ;
+    color: white ; 
+    border: 2px dashed rgb(241, 218, 116)
+}
+p.para1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700% ; 
+    line-height: 1.8 ; }
+.para1{
+    display: flex ; 
+    font: 20px ; 
+    justify-content: left ; 
+    align-items: center ; 
+    width: 70% ; 
+    margin: auto ; 
+    padding: 100px ; 
+    border: 2px solid #8baeee ; 
+
+
+}
