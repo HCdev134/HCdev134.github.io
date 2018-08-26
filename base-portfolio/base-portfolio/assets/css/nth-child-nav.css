@@ -1,0 +1,66 @@
+html, body{
+    background-color: #cccccc ; 
+}
+
+.topnav{
+    overflow: hidden ; 
+    background-color: #4aaaa5 ; 
+    color: white ;
+    padding: 100px 10px 20px 10px ; 
+    line-height: 2.2 ; 
+    font-size: 20px ; 
+    text-decoration: none ; 
+   
+}
+.topnav a{
+    text-decoration: none ; 
+    text-transform: capitalize ;
+    float: left ; 
+    color: white ; 
+    padding: 14px 16px ; 
+    text-align: center ; 
+   
+}
+
+.topnav a:focus{
+    background-color:#e69824 ; 
+
+}
+.topnav a:hover{
+   
+    background-color: #062b29
+}
+.active:hover{
+    background-color: #000 ; 
+    opacity: 0.7
+}
+
+.topnav a:nth-child(1){
+background-color: #000 ; 
+color: green ; 
+
+
+
+}
+.topnav a:nth-child(2n-8) { 
+    
+
+    background-color: #a13bfa ; 
+    color: white ;    
+}
+.topnav a:nth-child(even):hover{
+    background-color: #24a ; 
+    color: black ; 
+    opacity: 0.7 ; 
+    border: 1px dashed black ;
+}
+.topnav a:nth-child(odd):hover{
+    background-color: #000 ; 
+    color: white ; 
+    opacity: 0.7 ; 
+    border: 1px dashed black ;
+
+}
+.topnav a::after{
+    content: "hello :)"
+}
