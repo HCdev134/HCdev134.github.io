@@ -1,0 +1,27 @@
+@media screen and (max-width:640px){
+    body{
+        
+        width: 90% ;
+        margin: auto ;  
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        color: white ;
+        background-image: none; 
+        font-weight: 700 ; 
+        background-color: #000000 ;
+    }
+    .wrapper{
+        margin-right: 200px ;
+    }
+    .section-a{
+        
+        left: 0 ;
+        margin-right: 300px ;
+        
+       
+    }
+    .form-wrapper{
+        max-width: 600px ; 
+        width: 50%;
+        margin-left: auto ; 
+    }
+}
